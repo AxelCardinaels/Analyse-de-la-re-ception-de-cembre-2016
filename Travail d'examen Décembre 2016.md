@@ -10,8 +10,10 @@
 <https://www.wikiwand.com/fr/GitHub>
 
 
+Lancé en 2007 à San Francisco
+GitHub en lui-même n’est rien de plus qu’un réseau social comme Facebook ou Flickr. Vous construisez un profil, vous y déposez des projets à partager et vous vous connectez avec d’autres utilisateurs en suivant leurs comptes. Principalement du code mais tous types de fichiers. + Logiciels libres 
 
-GitHub en lui-même n’est rien de plus qu’un réseau social comme Facebook ou Flickr. Vous construisez un profil, vous y déposez des projets à partager et vous vous connectez avec d’autres utilisateurs en suivant leurs comptes. Principalement du code mais tous types de fichiers. + Logiciels libres
++de 19Millions de personnes qui représentent +50 millions projets
 
 Vous avec peut-être déjà plus d’une dizaine de comptes sociaux… et voici pourquoi vous devriez être sur Github : il dispose des meilleures Conditions Générales d’Utilisation. Si vous regardez la section F des conditions générales, vous verrez que Github fait tout pour vous assurer que vous conservez la propriété complète de tous les projets que vous déposez sur le site :
 
