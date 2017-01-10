@@ -6,25 +6,10 @@
 
 
 
-**Sources :**  <https://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/>
-<https://www.wikiwand.com/fr/GitHub>
+**Sources :**  <http://www.christopheducamp.com/2013/12/15/github-pour-nuls-partie-1/>
+<http://www.wikiwand.com/fr/GitHub>
+<http://github.com/about>
 
+Github est un projet lancé en 2007 à San Francisco. Il se présente sous la forme d'un réseau social, ou vous devez posséder un profil, vous identifier pour partager des fichiers, échanger avec d'autres utilisateurs en les suivant,...Il est basé sur le philosophie de l'open Source. Le but est donc de mettre à disposition de chacun ses projets (qui sont majoritairement du code pour réaliser des programmes, scripts et autre, mais vous pouvez y placer ce que vous voulez). Le site compte aujourd'hui plus de 19 millions de membres qui ont posté plus de 50 millions projets à travers le monde. 
 
-Lancé en 2007 à San Francisco
-GitHub en lui-même n’est rien de plus qu’un réseau social comme Facebook ou Flickr. Vous construisez un profil, vous y déposez des projets à partager et vous vous connectez avec d’autres utilisateurs en suivant leurs comptes. Principalement du code mais tous types de fichiers. + Logiciels libres 
-
-+de 19Millions de personnes qui représentent +50 millions projets
-
-Vous avec peut-être déjà plus d’une dizaine de comptes sociaux… et voici pourquoi vous devriez être sur Github : il dispose des meilleures Conditions Générales d’Utilisation. Si vous regardez la section F des conditions générales, vous verrez que Github fait tout pour vous assurer que vous conservez la propriété complète de tous les projets que vous déposez sur le site :
-
-We claim no intellectual property rights over the material you provide to the Service. Your profile and materials uploaded remain yours.
-
-GitHub est parvenu à produire l’une des interfaces graphiques sans effort pour le langage de programmation Git.
-
-###Git?
-
-Git est un logiciel de contrôle de version, ce qui signifie qu’il gère les modifications d’un projet sans écraser n’importe quelle partie du projet.
-
-Une application de contrôle de version comme Git empêche ça d’arriver. Vous et votre collègue pouvez chacun de votre côté verser vos révisions sur la même page, et Git sauvegardera deux copies. Plus tard, vous pourrez fusionner vos modifications sans perdre le travail dans le processus. Vous pouvez même revenir en arrière à tout moment, parce que Git conserve une “copie instantanée” de tous les changements produits.
-
-GitHub facilite l’utilisation de Git sur deux points. Premièrement, si vous téléchargez le logiciel GitHub sur votre ordinateur, GitHub fournit une interface visuelle pour vous aider à gérer localement vos projets avec les contrôles de version. Deuxièmement, créer un compte sur GitHub.com apporte les contrôles de versions à vos projets web, et leur confère des fonctionnalités de réseaux sociaux.
+Ce qui a rendu Github populaire est le fait d'offrir au langage GIT (un langage permettant le contrôle de versions, c'est à dire gérer les modifications sur un projet sans écraser les anciennes) une interface humaine et surtout de lui conférer les fonctionnalités d'un réseaux social collaboratif.
